@@ -3774,7 +3774,7 @@ Coding
 - Agentic AI for Complete Test Coverage
 
 ### Links
-- [Web](https://contextqa.com/)
+
 - [X (Twitter)](https://x.com/ContextQa)
 
 </details>
